@@ -14,12 +14,8 @@
 ..°☆ Sobre mim ☆°..
 </div>
 <div style="font-size: 18px;">
-👨‍💻┃ Programadora iniciante
-
-💻┃ EM ADS (2/3)
-
-🎈┃ 15 anos
-
+👨‍💻┃ Programadora iniciante<br>
+💻┃ EM ADS (2/3)<br>
+🎈┃ 15 anos<br>
 💾┃ Sou apaixonada por tecnologia desde criança e atualmente estou aprendendo mais sobre para entrar nesse mercado de trabalho!
-
 </div>
