@@ -6,7 +6,7 @@
 <div style="font-size: 25px; margin-bottom: 5px;">
 ☆ Tecnologias usadas ☆
 </div>
-
+<br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
