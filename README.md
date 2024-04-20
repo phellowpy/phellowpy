@@ -2,7 +2,7 @@
 
 
 ![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave)
-<hr>
+<br>
 
 ## ☆ Tecnologias usadas ☆
 
