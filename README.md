@@ -1,16 +1,25 @@
-### Hi there 👋
+# ..°♡𝕎𝕖𝕝𝕔𝕠𝕞𝕖︎︎ (・>・)ノ。。
 
-<!--
-**phellowpy/phellowpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave)
+<hr>
+<div style="font-size: 25px; margin-bottom: 5px;">
+☆ Tecnologias usadas ☆
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<hr>
+<div style="font-size: 25px; margin-bottom: 5px;">
+..°☆ Sobre mim ☆°..
+</div>
+<div style="font-size: 18px;">
+👨‍💻┃ Programadora iniciante
+
+💻┃ EM ADS (2/3)
+
+🎈┃ 15 anos
+
+💾┃ Sou apaixonada por tecnologia desde criança e atualmente estou aprendendo mais sobre para entrar nesse mercado de trabalho!
+
+</div>
