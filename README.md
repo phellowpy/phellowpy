@@ -1,11 +1,12 @@
 # ..°♡𝕎𝕖𝕝𝕔𝕠𝕞𝕖︎︎ (・>・)ノ。。
 
 <br>
-<div style="display: flex; align-items: center; justify-content:space-around">
 
-ㅤㅤ![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave)
-ㅤㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave)
-</div>
+
+![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave&card_width=500px)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave&card_width=500px)
+
 
 
 ## ☆ Tecnologias usadas ☆
