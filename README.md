@@ -4,8 +4,7 @@
 <div style="display: flex; align-items: center; justify-content:space-around">
 
 ㅤㅤ![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave)
-ㅤ<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave)
 </div>
 
 
