@@ -3,9 +3,9 @@
 <br>
 
 
-![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave&card_width=500px)
+![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave&card_width=500px&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave&card_width=500px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave&card_width=500px&locale=pt-br)
 
 
 
