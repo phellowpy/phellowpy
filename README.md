@@ -1,8 +1,9 @@
 # ..°♡𝕎𝕖𝕝𝕔𝕠𝕞𝕖︎︎ (・>・)ノ。。
 
-
+<div style="alight-items: center; justify-content: center;">
 ![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave)
+</div>
 <br>
 
 ## ☆ Tecnologias usadas ☆
