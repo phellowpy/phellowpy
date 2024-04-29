@@ -3,8 +3,8 @@
 <br>
 <div style="display: flex; align-items: center; justify-content: center;">
 
-![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave)
-ㅤㅤㅤㅤㅤㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave)
+ㅤㅤ![Phellowpy GitHub stats](https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave)
+ㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave)
 </div>
 
 
