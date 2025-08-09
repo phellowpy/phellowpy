@@ -1,27 +1,18 @@
-# ..°♡𝕎𝕖𝕝𝕔𝕠𝕞𝕖︎︎ (・>・)ノ。。
+# ..°♡𝔹𝕖𝕞-𝕧𝕚𝕟𝕕𝕠(𝕒) (・>・)ノ。。
 
 <br>
 
 <div align="center">
   <a href="https://github.com/phellowpy">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave&card_width=500px&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave&card_width=500px&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=phellowpy&show_icons=true&theme=synthwave&card_width=400px&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phellowpy&layout=compact&theme=synthwave&card_width=300px&locale=pt-br"/>
 </div>
 
-## ☆ Tecnologias usadas ☆
-
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <hr>
-<div style="font-size: 25px; margin-bottom: 5px;">
-..°☆ Sobre mim ☆°..
-</div>
-<div style="font-size: 18px;">
-👨‍💻┃ DEV iniciante<br>
-💻┃ EM ADS (2/3)<br>
-🎈┃ 15 anos<br>
-💾┃ Sou apaixonada por tecnologia desde criança e atualmente estou aprendendo mais sobre para entrar nesse mercado de trabalho!
-</div>
