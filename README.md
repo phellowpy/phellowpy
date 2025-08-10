@@ -1,5 +1,11 @@
 # ..°♡𝔹𝕖𝕞-𝕧𝕚𝕟𝕕𝕠(𝕒) (・>・)ノ。。
 
+<ul>
+  <li>🎨 DEV front-end iniciante</li>
+  <li>🎓 EM C/curso ADS</li>
+  <li>🦦 Sou apaixonada por tecnologia desde criança, o que for possivel eu estudarei para evoluir no mundo da programação!! ♡</li>
+</ul>
+
 <br>
 
 <div align="center">
