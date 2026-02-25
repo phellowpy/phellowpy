@@ -16,7 +16,7 @@
 
 * 🟣 | Discord: [@Phellowpy](https://discord.com/users/831176687286485033)
 * 📷 | Instagram: [@Phellowpy](https://www.instagram.com/phellowpy/)
----
+
 <h2 align="left">📚 Conhecimento Tecnico:</h2>
 
 <h3>Front-End</h3>
