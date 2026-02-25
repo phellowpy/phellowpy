@@ -5,7 +5,6 @@
 * 🌐 | Desenvolvedora web inicante focada no front-end.
 * 🎨 | Sou Furry, Genero-fluido, 17y, Amo jogos & CyberSegurança.
 * 💻 | Apaixonada por tecnologia desde criança, o que for possivel eu estudarei para evoluir no mundo da programação!! ♡
----
 
 > Algumas coisas sobre localidade/estudo.
 
