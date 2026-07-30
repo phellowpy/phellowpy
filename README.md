@@ -10,7 +10,6 @@
 
 * 🌃 | Eu moro atualmente em Curitiba - PR
 * 🏫 | Fiz EM C/curso ADS no [Colégio Yvone Pimentel](https://www.facebook.com/ccmyvonepimentel/?locale=pt_BR)
-* 🎓 | Estou cursando faculdade de sistemas da informação - UTFPR
 
 <h2 align="left">📞 Como entrar em contato:</h2>
 
